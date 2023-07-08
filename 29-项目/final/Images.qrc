@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>images/kpath.png</file>
+        <file>images/exit.png</file>
+        <file>images/456px-Pacman.svg.png</file>
+        <file>images/Studio_Project_(1).png</file>
+        <file>images/Studio_Project_(1) (1).png</file>
+        <file>images/start.png</file>
+        <file>images/765395.jpg</file>
+        <file>images/question-mark.png</file>
+        <file>images/setting.png</file>
+        <file>images/black.png</file>
+        <file>images/background.png</file>
+        <file>images/back.png</file>
+        <file>images/OIP.png</file>
+        <file>images/help.png</file>
+        <file>images/Set.png</file>
+        <file>images/a6p1t-5x2sy-007.png</file>
+        <file>images/027c491e1f13703f.png</file>
+        <file>images/pacman-145860_1280.png</file>
+        <file>images/pacman-145860_1281.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>images/pacman.ico</file>
+    </qresource>
+</RCC>

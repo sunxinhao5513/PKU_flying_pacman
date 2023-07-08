@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/music"/>
+    <qresource prefix="/">
+        <file>music/Flappy-Bird-Theme-Song.wav</file>
+        <file>music/mixkit-arcade-game-jump-coin-216.wav</file>
+        <file>music/box-crash-106687 (2).wav</file>
+    </qresource>
+</RCC>
